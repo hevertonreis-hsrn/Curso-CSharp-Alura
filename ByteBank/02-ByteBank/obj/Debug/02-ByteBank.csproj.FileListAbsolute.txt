@@ -1,0 +1,7 @@
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb

@@ -1,0 +1,10 @@
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.exe.config
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.pdb
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.AssemblyReference.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.CoreCompileInputs.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.CopyComplete
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.pdb

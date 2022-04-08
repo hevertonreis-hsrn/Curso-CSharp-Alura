@@ -1,0 +1,7 @@
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Fatorial\obj\Debug\Fatorial.pdb

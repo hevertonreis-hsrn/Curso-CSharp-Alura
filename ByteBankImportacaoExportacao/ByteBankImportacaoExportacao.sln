@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankImportacaoExportacao", "ByteBankImportacaoExportacao\ByteBankImportacaoExportacao.csproj", "{8D4B6B1E-C10E-418B-8CFE-B6C8D0E8BA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4B6B1E-C10E-418B-8CFE-B6C8D0E8BA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4B6B1E-C10E-418B-8CFE-B6C8D0E8BA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4B6B1E-C10E-418B-8CFE-B6C8D0E8BA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4B6B1E-C10E-418B-8CFE-B6C8D0E8BA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A2151D2-DCC5-4FC3-9188-5D67C4273A52}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache

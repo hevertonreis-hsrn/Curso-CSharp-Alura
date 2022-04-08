@@ -1,0 +1,7 @@
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.exe.config
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.pdb
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.pdb

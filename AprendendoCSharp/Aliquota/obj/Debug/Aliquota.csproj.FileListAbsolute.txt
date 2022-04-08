@@ -1,0 +1,7 @@
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Aliquota\bin\Debug\Aliquota.exe.config
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Aliquota\bin\Debug\Aliquota.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Aliquota\bin\Debug\Aliquota.pdb
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Aliquota\obj\Debug\Aliquota.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Aliquota\obj\Debug\Aliquota.csproj.CoreCompileInputs.cache
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Aliquota\obj\Debug\Aliquota.exe
+C:\Users\Heverton Reis\Documents\Curso_CSharp_Alura\AprendendoCSharp\Aliquota\obj\Debug\Aliquota.pdb
